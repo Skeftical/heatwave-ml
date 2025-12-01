@@ -107,6 +107,10 @@ table.wrap80 col.desc { width: 80ch; }
         <td>Travel agent that can search hotels, show room options, and make reservations using LangChain Agent, MySQL AI Database, Oracle MCP Server, and OCI LLMs.</td>
         <td><a href="./python/mysqlai/travel_agent.ipynb">MySQL AI</a></td>
    </tr>
+   <tr>
+        <td>Demonstrates how to use the NL_SQL procedure to query your database using Natural Language</td>
+        <td><a href="./python/heatwave/nl2sql.ipynb">HeatWave</a> <a href="./python/mysqlai/nl2sql.ipynb">MySQL AI</a></td>
+   </tr>
 </table>
 
 ## SQL examples
